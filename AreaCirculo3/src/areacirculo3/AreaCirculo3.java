@@ -8,7 +8,8 @@ package areacirculo3;
 /**
  *
  * @author ferchuqui
- * based on Introduction to Java 8th Edition 
+ * based on Introduction to Java 8th Edition
+ * 2.2 Writing Simple Programs
  */
 public class AreaCirculo3 {
 
