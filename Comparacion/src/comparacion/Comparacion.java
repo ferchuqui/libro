@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package comparacion;
-import java.util.Scanner
+import java.util.Scanner;
 /**
  *
  * @author ferchuqui
