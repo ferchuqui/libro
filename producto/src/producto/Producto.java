@@ -31,6 +31,7 @@ public class Producto {
         y = entrada.nextInt();
         System.out.print("Escriba el primer entero:");
         z = entrada.nextInt();
+        
                 
         resultado = x * y * z; //calcula el producto de los numeros
         System.out.printf("El producto es %d\n", resultado);
